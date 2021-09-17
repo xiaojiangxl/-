@@ -6,3 +6,5 @@
 在线可自动填加活动
 可批量填加接口
 ## 项目地址
+https://github.com/xiaojiangxl/robot
+**blog**:http://blog.52i.xyz/
